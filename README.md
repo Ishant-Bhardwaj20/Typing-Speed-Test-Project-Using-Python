@@ -5,7 +5,8 @@ The project measures the time taken to complete the test and calculates the typi
 
 This project uses Python's `random` module to select sentences randomly and the `time` module to measure the time taken by the user.
 
-## Features
+
+# Features
 * Random sentence selection
 * Typing time measurement
 * Words Per Minute (WPM) calculation
@@ -17,4 +18,4 @@ This project uses Python's `random` module to select sentences randomly and the 
 * `time` module
 * `random` module
 
-This project was built to practice Python concepts such as functions, lists, string manipulation, user input, and working with built-in Python modules.
+**This project was built to practice Python concepts such as functions, lists, string manipulation, user input, and working with built-in Python modules.**
