@@ -16,6 +16,7 @@ This project uses Python's `random` module to select sentences randomly and the 
 ## Technologies Used
 * Python
 * `time` module
+* ninkn
 * `random` module
 
 **This project was built to practice Python concepts such as functions, lists, string manipulation, user input, and working with built-in Python modules.**
